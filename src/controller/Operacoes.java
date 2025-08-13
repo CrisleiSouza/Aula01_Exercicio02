@@ -26,3 +26,8 @@ public class Operacoes {
 	}
 	
 }
+/*
+Texto 1: abóbora;abobrinha;alcachofra;aspargos;batata-doce;berinjela;beterraba
+Texto 2: abacate;ameixa;amora;banana;cajá;figo;maçã;melancia;uva;seriguela;manga
+Texto 3: acelga;alface;alho-poró;coentro;endívia;escarola;repolho;rúcula;agrião
+*/
